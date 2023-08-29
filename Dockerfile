@@ -1,1 +1,1 @@
-FROM baseImage
+FROM amazoncorretto:11
